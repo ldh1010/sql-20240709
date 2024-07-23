@@ -8,6 +8,7 @@ USE practice_sql;
 -- 테이블 구조의 컬럼 순서에 맞게 모든 데이터를 입력해야함
 INSERT INTO example_table VALUES ('데이터1', '데이터2');
 
+
 -- 2. 특정 컬럼을 선택하여 삽입
 -- INSERT INTO 테이블명 (컬럼명1, 컬럼명2, ...)
 -- VALUES (데이터1, 데이터2, ...)
